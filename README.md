@@ -22,6 +22,7 @@ A Deep Learning-powered web application that classifies images of fruits into 7 
 * **Model:** MobileNetV2 (Pre-trained on ImageNet)
 
 ---
+<img width="919" height="558" alt="image" src="https://github.com/user-attachments/assets/01aa4a76-e5b4-4692-97d7-0a4372a846db" />
 
 ## ⚙️ Installation & Setup Guide
 
@@ -32,3 +33,4 @@ Open your terminal (Command Prompt, PowerShell, or Git Bash) and run:
 ```bash
 git clone [https://github.com/MuhammadAsad878/fruit-classification-model-cv.git](https://github.com/MuhammadAsad878/fruit-classification-model-cv.git)
 cd fruit-classification-model-cv
+
